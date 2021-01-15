@@ -1,2 +1,5 @@
-This is an automation and test repository with examples
-NOTE: run xattr -d com.apple.quarantine chromedriver to use chromedriver if error msg appears for unquarantined usage
+This is an automation and test repository for selenium with examples
+
+NOTE: run xattr -d com.apple.quarantine chromedriver to use the chromedriver if error message appears
+
+will need to download up to date driver for browser on the selinium website for usage
